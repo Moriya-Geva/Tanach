@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BLL
-build_property.ProjectDir = C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\BLL\
+build_property.ProjectDir = C:\Users\Moriya\Documents\Programming\Projects\Tanach\BLL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
