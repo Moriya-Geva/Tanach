@@ -1,0 +1,121 @@
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\PL.exe
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\PL.deps.json
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\PL.runtimeconfig.json
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Moriya\source\repos\Tanach\PL\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.Form1.resources
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfo.cs
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.Up2Date
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\refint\PL.dll
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\PL.genruntimeconfig.cache
+C:\Users\Moriya\source\repos\Tanach\PL\obj\Debug\net8.0-windows\ref\PL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.Form1.resources
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfo.cs
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\refint\PL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.exe
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.deps.json
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.runtimeconfig.json
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.Up2Date
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.genruntimeconfig.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\ref\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.exe
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.deps.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.runtimeconfig.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfo.cs
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.Up2Date
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\refint\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.genruntimeconfig.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\ref\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\PL.exe
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\PL.deps.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\PL.runtimeconfig.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.AssemblyInfo.cs
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.csproj.Up2Date
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\refint\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.genruntimeconfig.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\ref\PL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\PL\obj\Debug\net8.0-windows\PL.Form2.resources
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.Form2.resources
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.exe
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.deps.json
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.runtimeconfig.json
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.Form2.resources
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.GenerateResource.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.AssemblyInfo.cs
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.csproj.Up2Date
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\refint\PL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\PL.genruntimeconfig.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\PL\obj\Debug\net8.0-windows\ref\PL.dll

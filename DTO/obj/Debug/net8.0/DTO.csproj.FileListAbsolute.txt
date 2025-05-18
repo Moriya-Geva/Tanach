@@ -1,0 +1,33 @@
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DTO\obj\Debug\net8.0\ref\DTO.dll

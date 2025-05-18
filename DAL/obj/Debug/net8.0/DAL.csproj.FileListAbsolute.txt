@@ -1,0 +1,59 @@
+C:\Users\Moriya\source\repos\Tanach\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Moriya\source\repos\Tanach\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Moriya\source\repos\Tanach\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\source\repos\Tanach\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Desktop\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\Tanach\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Documents\לימודים\שנה ב\C#\TG\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Moriya\Documents\Programming\Year 2 programming\C#\Tanach\DAL\obj\Debug\net8.0\ref\DAL.dll
